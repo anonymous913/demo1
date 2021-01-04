@@ -66,6 +66,7 @@ section {
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    display: inline-block;
 }
 
 #full-stack {
@@ -77,7 +78,7 @@ section {
 #baby-web {
     border-left: 7px solid;
     border-image: linear-gradiant(180deg, blue, cyan);
-    border-image-slice: 1;
+    border-image-slice: 1;   
 }
 
 footer {
